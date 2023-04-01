@@ -3,3 +3,4 @@ Hello Git~~~
 Hello Git~~~
 GitHub4.1
 测试SSH免密登录协议是否配置成功-4.1_16:09
+测试Gitee的同步功能-4.1_22:14
